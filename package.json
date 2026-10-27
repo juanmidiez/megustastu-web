@@ -1,0 +1,26 @@
+{
+  "name": "megustastu-web",
+  "version": "1.0.0",
+  "description": "Web de la trilogía «me gustas tú.» de Juanmi Díez · https://megustastu.pages.dev",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/prerender.mjs",
+    "preview": "vite preview"
+  },
+  "author": "Juanmi Díez",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@fontsource/libre-caslon-text": "^5.3.0",
+    "@fontsource/poppins": "^5.3.0",
+    "gsap": "^3.13.0",
+    "motion": "^12.23.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.19"
+  },
+  "private": true
+}
