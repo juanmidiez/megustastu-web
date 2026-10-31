@@ -1,0 +1,14 @@
+{
+  "name": "me gustas tú. los días raros. rey.",
+  "short_name": "me gustas tú.",
+  "description": "La trilogía de Juanmi Díez: me gustas tú., los días raros. y rey.",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3EDDF",
+  "theme_color": "#F3EDDF",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
